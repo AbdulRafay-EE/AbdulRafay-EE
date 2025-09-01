@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on **CSS**
 - 🌱 I’m currently learning **HTML, Java, JS, DOM, CSS Styling, Electrical**
+-    I can work on **Autocad & MATLAB**
 - 💬 Ask me about **Electrical & Coding C++**
 - ⚡ Fun fact: **I make videos on Instagram**
 
